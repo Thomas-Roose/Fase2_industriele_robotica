@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="unit1">
+
+	<executable package_path="unit_1_flexbe_behaviors.unit1_sm" class="unit1SM" />
+	<tagstring></tagstring>
+	<author>Thomas Roose</author>
+	<date>Thu May 27 2021</date>
+	<description>
+		unit1
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="pick_part_from_bin">
+
+	<executable package_path="unit_1_flexbe_behaviors.pick_part_from_bin_sm" class="pick_part_from_binSM" />
+	<tagstring></tagstring>
+	<author>Thomas Roose</author>
+	<date>Thu May 27 2021</date>
+	<description>
+		unit1
+	</description>
+
+
+	<!-- Contained Behaviors -->
+	<contains name="get_order" />
+
+	<!-- Available Parameters -->
+
+</behavior>

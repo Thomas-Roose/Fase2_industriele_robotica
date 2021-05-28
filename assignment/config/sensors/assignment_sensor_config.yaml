@@ -1,0 +1,32 @@
+sensors:
+  break_beam_1:
+    type: break_beam
+    pose:
+      xyz: [1.6, 0, 0.91]
+      rpy: [0, 0, 'pi']
+
+  logical_camera_bin5:
+    type: logical_camera
+    pose:
+      xyz: [-0.3, 1.15, 1.6]
+      rpy: [0, pi/2, 0]
+
+  logical_camera_bin4:
+    type: logical_camera
+    pose:
+      xyz: [-0.3, 0.383, 1.6]
+      rpy: [0, pi/2, 0]
+
+  logical_camera_bin3:
+    type: logical_camera
+    pose:
+      xyz: [-0.3, -0.383, 1.6]
+      rpy: [0, pi/2, 0]
+
+  logical_camera_conveyor:
+    type: logical_camera
+    pose:
+      xyz: [1.25, 0, 1.6]
+      rpy: [0, pi/2, 0]
+
+

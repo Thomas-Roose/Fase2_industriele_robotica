@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<tables>
+    <table name = "bin_configuration">
+	    <bin name="bin3">
+		    <robot_config value="bin3PreGrasp" />
+		    <camera_topic value="/ariac/logical_camera_bin3" />
+		    <camera_frame value="logical_camera_bin3_frame" />
+	    </bin>
+	    <bin name="bin4">
+		    <robot_config value="bin4PreGrasp" />
+		    <camera_topic value="/ariac/logical_camera_bin4" />
+		    <camera_frame value="logical_camera_bin4_frame" />
+	    </bin>
+			<bin name="bin5">
+		    <robot_config value="bin5PreGrasp" />
+		    <camera_topic value="/ariac/logical_camera_bin5" />
+		    <camera_frame value="logical_camera_bin5_frame" />
+	    </bin>
+    </table>
+    <table name = "andere tabel">
+    </table>
+</tables>
